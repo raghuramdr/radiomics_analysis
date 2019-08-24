@@ -2,5 +2,6 @@
   "input_file_path": "/media/raghuram/Seagate Backup Plus Drive/TCGA-LGG",
    "output_path": "/home/raghuram/Desktop/radiomics",
    "output_file_name": "Patient_Information_and_Metadata.csv",
-   "input_csv_path": "/home/raghuram/Downloads/TCGA_clinical_INFO.csv"
+   "input_csv_path": "/home/raghuram/Downloads/TCGA_clinical_INFO.csv",
+   "mat_files_path": "/home/raghuram/Desktop/radiomics/TEXTURES"
 }
